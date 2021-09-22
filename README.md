@@ -1,5 +1,5 @@
-- I'm a kid living in Toronto
-- If you find this:
-  - I don't know how you found this
-  - This entire thing is probably irrelevant
-- alright bye
+- i'm a high schooler trying not to die
+- if you find this:
+  - i dont know how you found this
+  - this section really doesnt matter
+- what
