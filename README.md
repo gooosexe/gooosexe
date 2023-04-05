@@ -1,5 +1,2 @@
-- i'm a high schooler trying not to die
-- if you find this:
-  - i dont know how you found this
-  - this section really doesnt matter
-- what
+- bruh
+- ???
