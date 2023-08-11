@@ -1,4 +1,3 @@
-Hey there! I make things. Here's my discord.
+D:
 
-goose#2716
-
+gooose_exe
