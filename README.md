@@ -1,5 +1,5 @@
 # about
-incoming first year studying physical and mathematical sciences @ university of toronto
+incoming first year @ university of toronto studying physical and mathematical sciences
 - python
 - java
 - js/html/css
