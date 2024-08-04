@@ -6,5 +6,4 @@ incoming first year @ university of toronto studying physical and mathematical s
 - a little c++
 
 # contact
-- discord: gooose_exe
-- email: ohuang4131@gmail.com
+- discord and instagram: gooose_exe
