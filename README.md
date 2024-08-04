@@ -6,4 +6,4 @@ incoming first year @ university of toronto studying physical and mathematical s
 - a little c++
 
 # contact
-- discord and instagram: gooose_exe
+- discord: gooose_exe
