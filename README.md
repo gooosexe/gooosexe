@@ -2,18 +2,22 @@
 incoming first year @ university of toronto studying physical and mathematical sciences
 - python
   - pygame
-  - data analysis libs
+  - matplotlib, numpy, scipy
 - java
   - javafx
   - swing
-  - some libgdx 
+  - libgdx 
 - js/html/css
   - react
   - node.js 
-- a little c++
+- c++
+  - PROS API for VEX VRC
   - poked around in opengl
-- a little sh scripting
-  - mostly ricing distros
+- sh scripting
+  - mostly linux distro ricing
 
 # contact
+- email:
+  - oli.huang@mail.utoronto.ca
+  - ohuang4131@gmail.com
 - discord: gooose_exe
