@@ -12,6 +12,7 @@ incoming first year @ university of toronto studying physical and mathematical s
   - node.js 
 - c++
   - PROS API for VEX VRC
+  - raylib
   - poked around in opengl
 - sh scripting
   - mostly linux distro ricing
