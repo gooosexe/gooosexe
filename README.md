@@ -1,5 +1,5 @@
 # about
-incoming first year @ university of toronto studying physical and mathematical sciences
+1st year @ university of toronto studying math and physics
 - python
   - pygame
   - matplotlib, numpy, scipy
@@ -14,6 +14,8 @@ incoming first year @ university of toronto studying physical and mathematical s
   - PROS API for VEX VRC
   - raylib
   - poked around in opengl
+- c
+  - stm32
 - sh scripting
   - mostly linux distro ricing
 
