@@ -23,4 +23,4 @@
 - email:
   - oli.huang@mail.utoronto.ca
   - ohuang4131@gmail.com
-- discord: gooose_exe
+- discord: __gooose
