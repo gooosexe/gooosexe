@@ -10,7 +10,7 @@
 - ![Static Badge](https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML-red?logo=HTML5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-purple?logo=CSS&logoColor=white)
   - ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black)
   - ![Static Badge](https://img.shields.io/badge/nodejs-green?logo=node.js&logoColor=white) 
-- ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus&logoColor=white)\
+- ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus&logoColor=white)
   - PROS API for VEX VRC
   - ![Static Badge](https://img.shields.io/badge/raylib-white?logo=raylib&logoColor=black)
   - ![Static Badge](https://img.shields.io/badge/OpenGL-%235586A4?logo=opengl&logoColor=white)
