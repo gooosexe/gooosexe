@@ -27,7 +27,7 @@
 - linux
   - arch, ubuntu
 
-## contact
+## > contact
 - email:
   - oli.huang@mail.utoronto.ca
   - ohuang4131@gmail.com
