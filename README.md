@@ -1,6 +1,7 @@
-## about
-1st year @ university of toronto studying math and physics
+## fetch
 ```
+1st year @ university of toronto studying math and physics
+
  /| ､        osh@gooose.local
 (°､ ｡ 7      os     macOS 15.3.1
  |､  ~ヽ     shell  fish
