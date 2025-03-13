@@ -1,7 +1,6 @@
 ## fetch
 1st year @ university of toronto studying math and physics
 
-
 ![image](https://github.com/user-attachments/assets/58e2fde9-2d31-43f7-bc19-48c57a00646a)
 ## languages
 ![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white) ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)
