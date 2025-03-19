@@ -1,7 +1,9 @@
 ## > pfetch
 1st year @ university of toronto studying math and physics
 
-<img width="749" alt="image" src="https://github.com/user-attachments/assets/6d8eed2b-11e4-4268-8ec4-f4b5de9434fd" />
+<div style="display: flex; justify-content: center;">
+    <img width="50%" alt="image" src="https://github.com/user-attachments/assets/6d8eed2b-11e4-4268-8ec4-f4b5de9434fd" />
+</div>
 
 ## > languages
 ![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white) ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)
