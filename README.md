@@ -22,7 +22,7 @@ terminal iterm2
 - science
   - matplotlib, numpy, scipy
 - frontend
-  - react, jekyll
+  - nextjs, svelte, jekyll
 - backend
   - node.js, spring boot, postgresql
 - embedded
